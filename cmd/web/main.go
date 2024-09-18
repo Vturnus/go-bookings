@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/Vturnus/go-bookings/pkg/config"
-	"github.com/Vturnus/go-bookings/pkg/handlers"
-	"github.com/Vturnus/go-bookings/pkg/render"
+	"github.com/Vturnus/go-bookings/internal/config"
+	"github.com/Vturnus/go-bookings/internal/handlers"
+	"github.com/Vturnus/go-bookings/internal/render"
 	"github.com/alexedwards/scs/v2"
 	"log"
 	"net/http"
